@@ -1,3 +1,10 @@
+#######################################################
+# Author: Arnold Vianna  
+# https://github.com/arnold-vianna
+# https://arnold-vianna.github.io/
+#######################################################
+
+
 import psutil
 
 def find_and_kill_python_script(script_name):
